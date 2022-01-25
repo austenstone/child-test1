@@ -1,0 +1,3 @@
+[submodule "child-test1-child"]
+	path = child-test1-child
+	url = git@bitbucket.org:austenstone/child-test1-child.git
